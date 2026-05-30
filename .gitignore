@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Local / editor
+DEBUGGING_NOTES.md
+.claude/
+.vscode/
+.idea/
+.DS_Store
+*.log
